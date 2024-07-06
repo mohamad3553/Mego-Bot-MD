@@ -1,7 +1,7 @@
 ## 𝑮𝒐𝒌𝒖Bot-MD ✨
 
 <p align="center">
-<img src="https://telegra.ph/file/d1b9d275747a0c2258b35.jpg" alt="𝑮𝒐𝒌𝒖Bot-MD" width="900"/>
+<img src="https://telegra.ph/file/d1b9d275747a0c2258b3.jpg" alt="𝑮𝒐𝒌𝒖Bot-MD" width="900"/>
 </p>
 
 <a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
